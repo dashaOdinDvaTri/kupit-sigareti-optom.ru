@@ -1,0 +1,6 @@
+User-agent:*
+Allow: /
+Disallow: /index.html
+Disallow: /www.main-ip.ru
+sitemap: http://kupit-sigareti-optom.ru/sitemap.xml
+Host: http://kupit-sigareti-optom.ru
